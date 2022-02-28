@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+    
+  }
+  .card{
+    display: inline-block;
+    margin-right: 3.5%;
+    margin-bottom:2% ;
+  }
+h2{
+  color: aliceblue;
+}
