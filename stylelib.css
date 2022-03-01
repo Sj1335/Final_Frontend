@@ -10,3 +10,10 @@ body {
 h2{
   color: aliceblue;
 }
+.card:hover{
+  color: darkgray;
+
+}
+.all{
+  margin-left: 20px;
+}

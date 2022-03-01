@@ -1,0 +1,9 @@
+.all{
+    margin-left: 20px;
+  }
+.card-body{
+    color: aliceblue;
+}
+.card-img-top{
+    float: left;
+}
