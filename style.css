@@ -3,7 +3,16 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
+  
     
+  }
+  .img-responsive2{
+    height: 50px;
+    width: 50px;
+    margin-top: 2px;
+  }
+  .nav-link{
+    float: left;
   }
       
       .headerr{
@@ -14,7 +23,12 @@ body {
           background-color: rgb(22, 21, 21);
           float: right;
           margin-top:0% ;
+          opacity: 75%;
           
+          
+      }
+      .tm-header{
+        
       }
       li{
           display: inline-block;
@@ -39,17 +53,7 @@ p{
      width: 200px;
      
  }
- .bottom{
-    position: sticky;
-    height: 120px;
-    background-color: black;
-    color: white;
-    bottom: 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-}
+
 .footer {
   position: fixed;
   left: 0;
@@ -59,6 +63,7 @@ p{
   color: white;
   text-align: center;
   padding: 25px;
+  opacity: 90%;
 }
 .fa-solid fa-circle-play{
   color: white;

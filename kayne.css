@@ -3,7 +3,19 @@
   }
 .card-body{
     color: aliceblue;
+    float: left;
 }
 .card-img-top{
     float: left;
+}
+.kaycover{
+    text-align: center;
+    width: 120%;
+    margin-right: 80%;
+}
+.img-text{
+    position: absolute;
+    top: 60%;
+    left: 40%;
+    transform: translate(-50%, -50%);
 }
