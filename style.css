@@ -11,9 +11,7 @@ body {
     width: 50px;
     margin-top: 2px;
   }
-  .nav-link{
-    float: left;
-  }
+  
       
       .headerr{
           
@@ -38,9 +36,7 @@ a{
     color: white;
     text-decoration: none;
   }
-  a:hover{
-    color: blue;
-  }
+
   a:visited{
     color: dark grey;
   }

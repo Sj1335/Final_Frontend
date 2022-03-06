@@ -60,11 +60,11 @@
 
 .box:active,
 .box:visited {
-    border: 2px solid rgb(197, 73, 1)
+    border: 2px solid rgb(204, 204, 204)
 }
 
 .box:hover {
-    border: 2px solid rgb(197, 73, 1)
+    border: 2px solid rgb(204, 204, 204)
 }
 
 .btn.btn-primary {
@@ -101,7 +101,7 @@
 }
 
 .fas.fa-times:hover {
-    color: #ff0000
+    color: rgb(204, 204, 204)
 }
 
 @media (max-width:767px) {
