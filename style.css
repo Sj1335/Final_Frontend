@@ -18,7 +18,7 @@ body {
       .headerr{
           
           text-align: center;
-              width: 79%;
+          width: 79%;
           padding:7px 142px;
           background-color: rgb(22, 21, 21);
           float: right;
@@ -64,6 +64,7 @@ p{
   text-align: center;
   padding: 25px;
   opacity: 90%;
+  
 }
 .fa-solid fa-circle-play{
   color: white;
